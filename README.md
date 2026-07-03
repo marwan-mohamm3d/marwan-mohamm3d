@@ -15,24 +15,23 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-JavaScript
-C++
-[TypeScript
+- JavaScript
+- C++
+- TypeScript
 
 ### framework
-.net framework\n
-React native\n
-unity c#
-Embedded C
+- .net framework
+- React native
+- unity c#
+- Embedded C
 
 ### Database
-!Microsoft SQL
-!appqrite
+- Microsoft SQL
+- appwrite
 
 ### Tools
-!git/github
-
----
+- git/github
+- chatgpt :]
 
 ---
 
@@ -40,7 +39,7 @@ Embedded C
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| Awesome App | Short description | React, Node.js |
+| smart electricity monitoring system| harware and software for the system responsible of monitoring the electricity consumption in a house and sending it to your phone | Embedded C, Java android studio, Sockets|
 | Portfolio | Personal website | Next.js |
 | API Server | REST API | Express, MongoDB |
 
