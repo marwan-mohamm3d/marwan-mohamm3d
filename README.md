@@ -20,8 +20,8 @@ C++
 [TypeScript
 
 ### framework
-.net framework
-React native
+.net framework\n
+React native\n
 unity c#
 Embedded C
 
