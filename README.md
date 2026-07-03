@@ -1,17 +1,14 @@
-# Hi there 👋 I'm Your Name
+# Marwan Muhammed
 
-### 🚀 Full Stack Developer | Open Source Enthusiast | Lifelong Learner
+### 🚀 Software Developer |Embedded system engineer
 
 <img align="right" width="350" src="https://your-gif-or-image-url.gif" alt="Coding">
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Awesome Project**
-- 🌱 Learning **AI, Cloud, and DevOps**
-- 💬 Ask me about **JavaScript, React, Node.js, Python**
-- 📫 Reach me: **you@example.com**
-- 🌍 Portfolio: **https://yourportfolio.com**
-- ⚡ Fun fact: I love building things that solve real problems.
+- Currently working on **BazarO, an ecommerce application **
+-  Learning **react native**
+- main email :  **marwan50craft@gmail.com**
 
 ---
 
