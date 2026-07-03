@@ -2,7 +2,7 @@
 
 ### 🚀 Software Developer |Embedded system engineer
 
-<img align="right" width="350" src="https://your-gif-or-image-url.gif" alt="Coding">
+<img align="right" width="350" src="https://your-gif-or-image-url.gif" alt="my picture">
 
 ## 👨‍💻 About Me
 
