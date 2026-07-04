@@ -46,7 +46,7 @@
 ---
 
 ## More about my Projects
-### 1 - XGMK
+### 1 - XGMK ###
 
 a genral porpus expense tracking app I custom built using c++ .netframework 4.8 and microsoft SQL server, it consist of many windows showing sales, expenses, salaries and more
 the app was my first project so it was a bit of a mess interms of code, I didn't plan for anything i just wrote code, it didn't contain much oop or software engineering concept
