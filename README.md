@@ -44,8 +44,11 @@
 | general poprpos expense tracker (XGMK) | custom built a expense tracker for a local company, with inventory management and expense analysing| C++ CLR .netframework, micorosft SQL |
 
 ### More about my Projects
-# 1 - XGMK 
-<img src="assets/XGMK-2.png" width=200>
+# 1 - XGMK
+a genral porpus expense tracking app I custom built using c++ .netframework 4.8 and microsoft SQL server, it consist of many windows showing sales, expenses, salaries and more
+the app was my first project so it was a bit of a mess interms of code, I didn't plan for anything i just wrote code, it didn't contain much oop or software engineering concept
+<img src="assets/XGMK-2.png" width=600>
+figure 1 : XGMK showing dummy data
 ---
 
 ## Contact me
