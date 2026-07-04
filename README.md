@@ -45,7 +45,6 @@
 
 ---
 ## More about my Projects
-
 ### 1 - XGMK
 
 A general-purpose expense tracking app I built using **C++**, **.NET Framework 4.8**, and **Microsoft SQL Server**. It consists of multiple windows for sales, expenses, salaries, and more.
