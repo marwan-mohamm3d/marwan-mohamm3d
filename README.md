@@ -44,6 +44,7 @@
 | general poprpos expense tracker | custom built a expense tracker for a local company, with inventory management and expense analysing| C++ CLR .netframework, micorosft SQL |
 
 ### More about my Projects
+<img src="assets/XGMK-2.png">
 ---
 
 ## Contact me
