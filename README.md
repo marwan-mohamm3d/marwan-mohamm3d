@@ -46,9 +46,9 @@
 ---
 ## More about my Projects
 
-### 1 - XGMK
+### 1- XGMK
 
-This is normal text.
+normal text
 
 ---
 
