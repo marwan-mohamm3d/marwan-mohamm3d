@@ -48,11 +48,13 @@
 
 ### 1 - XGMK
 
-a genral porpus expense tracking app I custom built using c++ .netframework 4.8 and microsoft SQL server, it consist of many windows showing sales, expenses, salaries and more
-the app was my first project so it was a bit of a mess interms of code, I didn't plan for anything i just wrote code, it didn't contain much oop or software engineering concept
-<img src="assets/XGMK-2.png" width=600>
--figure 1 : XGMK showing dummy data
-I wan tpart bellow 1-XGMK not to be header
+A general-purpose expense tracking app I built using **C++**, **.NET Framework 4.8**, and **Microsoft SQL Server**. It consists of multiple windows for sales, expenses, salaries, and more.
+
+The app was my first project, so the codebase was fairly unstructured. I didn't plan the architecture beforehand, and it contains limited object-oriented design and software engineering practices.
+
+<img src="assets/XGMK-2.png" width="600">
+
+*Figure 1: XGMK showing dummy data.*
 ---
 
 ## Contact me
