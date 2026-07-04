@@ -60,6 +60,17 @@ the second of my projects, was also a expense tracker, i decided to make a compl
 this one too uses the same framework, but i decide to use MSSQLEXPRESS to allow user to use it subscribtion free.
 
 <img src="assets/gumrok-1.png" width = 800 align="center">
+
+### 3 - My Library 3d 
+
+it is simply an improvement of the UI of windows explorer, and the way it works it turnes folders into shelfs and organizes the PDF files in that folder into books on that shelf.
+it was written in C# and unity game engine for rendering
+
+<img src = "assests/my library 3d.png" width = 800 align="center">
+this image showes the result
+
+-the app was born from a silly idea I had while reading software engineering book, in a chapter about UI it says something like "the user interface should make sens based on applicaiotn, it doens't make sens for a air traffir control system to be a spread sheet"
+so i decided to work the other way around, what if I made a spreadsheet based app into a interractive UI like air traffic control
 ---
 
 ## Contact me
