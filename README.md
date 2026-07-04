@@ -1,6 +1,6 @@
 # Marwan Muhammed
 
-### 🚀 Software Developer |Embedded system engineer
+### Electrical Engineer | Software Developer 
 
 <img align="right" width="350" src="https://your-gif-or-image-url.gif" alt="my picture">
 
