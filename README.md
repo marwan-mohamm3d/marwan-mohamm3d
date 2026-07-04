@@ -52,7 +52,7 @@ a genral porpus expense tracking app I custom built using c++ .netframework 4.8 
 the app was my first project so it was a bit of a mess interms of code, I didn't plan for anything i just wrote code, it didn't contain much oop or software engineering concept
 -figure 1 
 
-
+<img src = "assets/XGMK-1.png" width = 800 align ="center">
 ---
 
 ## Contact me
