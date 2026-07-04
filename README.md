@@ -52,7 +52,7 @@ it is a combination of software and hardware that are used to mesure your house 
 the application can show the electricity consumption in realtime and also it saves the data throught a period of time showing them alter as graph
 they also have a built in machine learning software that learns trends of consumption and based on that predects the price of future consumption
 
-<img src="assets/output.gif" width = 500>
+<img src="assets/output.gif" width = 760>
 
 ### 3- XGMK
 a genral porpus expense tracking app I custom built using c++ .netframework 4.8 and microsoft SQL server, it consist of many windows showing sales, expenses, salaries and more.
