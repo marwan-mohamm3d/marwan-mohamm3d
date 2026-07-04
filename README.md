@@ -40,20 +40,12 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | smart electricity monitoring system| harware and software for the system responsible of monitoring the electricity consumption in a house and sending it to your phone | Embedded C, Java android studio, Sockets|
-| Portfolio | Personal website | Next.js |
-| API Server | REST API | Express, MongoDB |
+| smart irrigation system | a schedual based and remote controled irrigation system with hardware and software | Embedded C, Java android Studio, GSM |
+| general poprpos expense tracker | custom built a expense tracker for a local company, with inventory management and expense analysing| C++ CLR .netframework, micorosft SQL |
 
 ---
 
-## 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourname)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:you@example.com)
+## Contact me
+primary Email : marwawn50craft@gmail.com
 
 ---
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=for-the-badge)
-
-⭐ Thanks for visiting my profile!
