@@ -41,11 +41,11 @@
 |---------|-------------|------|
 | smart electricity monitoring system| harware and software for the system responsible of monitoring the electricity consumption in a house and sending it to your phone | Embedded C, Java android studio, Sockets|
 | smart irrigation system | a schedual based and remote controled irrigation system with hardware and software | Embedded C, Java android Studio, GSM |
-| general poprpos expense tracker | custom built a expense tracker for a local company, with inventory management and expense analysing| C++ CLR .netframework, micorosft SQL |
+| general poprpos expense tracker (XGMK) | custom built a expense tracker for a local company, with inventory management and expense analysing| C++ CLR .netframework, micorosft SQL |
 
 ### More about my Projects
 # 1 - XGMK 
-<img src="assets/XGMK-2.png">
+<img src="assets/XGMK-2.png" width=200>
 ---
 
 ## Contact me
