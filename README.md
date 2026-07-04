@@ -56,7 +56,8 @@ the app was my first project and it was done during collage, so it was a bit of 
 -this image showes the sales tracking windows in the application, with dummy data
 
 ### 2 - gumrok
-the second of my projects, was also a expense tracker, i decided to make a compleatly new one instead of using parts of my old app, also done during collage but this was much more polished because i learned concepts of oop and some software engineering concepts befor hands, and i applied them in this project, i consider it much better than my first one
+the second of my projects, was also a expense tracker, i decided to make a compleatly new one instead of using parts of my old app, also done during collage but this was much more polished because i learned concepts of oop and some software engineering concepts befor hands, and i applied them in this project, i consider it much better than my first one.
+this one too uses the same framework, but i decide to use MSSQLEXPRESS to allow user to use it subscribtion free.
 
 <img src="assets/gumrok-1.png" width = 800 align="center">
 ---
