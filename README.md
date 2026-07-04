@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- Currently working on **BazarO, an ecommerce application **
+- Currently working on **BazarO, an ecommerce application**
 -  Learning **react native**
 - main email :  **marwan50craft@gmail.com**
 
