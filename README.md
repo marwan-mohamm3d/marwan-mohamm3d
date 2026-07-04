@@ -49,10 +49,16 @@
 ### 1- XGMK
 a genral porpus expense tracking app I custom built using c++ .netframework 4.8 and microsoft SQL server, it consist of many windows showing sales, expenses, salaries and more.
 
-the app was my first project so it was a bit of a mess interms of code, I didn't plan for anything i just wrote code, it didn't contain much oop or software engineering concept
--figure 1 
+the app was my first project and it was done during collage, so it was a bit of a mess interms of code, I didn't plan for anything i just wrote code, it didn't contain much oop or software engineering concept
+
 
 <img src = "assets/XGMK-1.png" width = 800 align ="center">
+-this image showes the sales tracking windows in the application, with dummy data
+
+### 2 - gumrok
+the second of my projects, was also a expense tracker, i decided to make a compleatly new one instead of using my old one, also done during collage but this was much more polished because i learned concepts of oop and some software engineering concepts befor hands, and i applied them in this project, i consider it much better than my first one
+
+<img src="assets/gomruk-1.png" width = 800 align="center">
 ---
 
 ## Contact me
