@@ -35,7 +35,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Projects summary
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -43,6 +43,7 @@
 | smart irrigation system | a schedual based and remote controled irrigation system with hardware and software | Embedded C, Java android Studio, GSM |
 | general poprpos expense tracker | custom built a expense tracker for a local company, with inventory management and expense analysing| C++ CLR .netframework, micorosft SQL |
 
+### More about my Projects
 ---
 
 ## Contact me
