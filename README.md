@@ -2,8 +2,6 @@
 
 ### Electrical Engineer | Software Developer 
 
-<img align="right" width="350" src="https://your-gif-or-image-url.gif" alt="my picture">
-
 ## 👨‍💻 About Me
 
 - Currently working on **BazarO, an ecommerce application**
@@ -47,12 +45,17 @@
 ## More about my Projects
 
 ### 1 - smart electricity meter system
-this is byfar my most advanceda and most organized project
+this is by far my most advanceda and most organized project
 it is a combination of software and hardware that are used to mesure your house electricity consuming and send the data right back to your phone
 the application can show the electricity consumption in realtime and also it saves the data throught a period of time showing them alter as graph
 they also have a built in machine learning software that learns trends of consumption and based on that predects the price of future consumption
 
 <img src="assets/output.gif" width = 760>
+
+### 2 - Youtube TV Simulator
+this is my first react-native applciation, it is a clinet for youtube focused on fighting back aginst addictions and algortihm eating up time, It works by allowing user to only choose some palylists of his choice and the application will make a schdual and decide what to be playeed when, the user will have no control over the content being player other than choosing what playlists to be played, just like a TV- channle, with alittle more control
+
+
 
 ### 3- XGMK
 a genral porpus expense tracking app I custom built using c++ .netframework 4.8 and microsoft SQL server, it consist of many windows showing sales, expenses, salaries and more.
