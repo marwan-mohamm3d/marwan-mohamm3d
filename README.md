@@ -4,8 +4,6 @@
 
 ## 👨‍💻 About Me
 
-- Currently working on **BazarO, an ecommerce application**
--  Learning **react native**
 - main email :  **marwan50craft@gmail.com**
 
 ---
@@ -38,8 +36,10 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | smart electricity monitoring system| harware and software for the system responsible of monitoring the electricity consumption in a house and sending it to your phone | Embedded C, Java android studio, Sockets|
+|youtube TV sim | this project is react native expo application build for providing algorithm-free experiacne for youtube, to avoid wasting too much time on youtube | react-native, expo, typescript, youtubeAPI
 | smart irrigation system | a schedual based and remote controled irrigation system with hardware and software | Embedded C, Java android Studio, GSM |
 | general poprpos expense tracker (XGMK) | custom built a expense tracker for a local company, with inventory management and expense analysing| C++ CLR .netframework, micorosft SQL |
+|my libray 3d | a 3d preview of your PDF files inside your folders, it allowes interactive 3d books | C# unity game engine
 
 ---
 ## More about my Projects
@@ -53,12 +53,12 @@ they also have a built in machine learning software that learns trends of consum
 <img src="assets/output.gif" width = 760>
 
 ### 2 - Youtube TV Simulator
-this is my first react-native applciation, it is a clinet for youtube focused on fighting back aginst addictions and algortihm eating up time, It works by allowing user to only choose some palylists of his choice and the application will make a schdual and decide what to be playeed when, the user will have no control over the content being player other than choosing what playlists to be played, just like a TV- channle, with alittle more control
+this is my first react-native application, it is a client for youtube focused on fighting back against addictions and algorithm eating up time, It works by allowing user to only choose some playlists of his choice and the application will make a schdule and decide what to be played when, the user will have no control over the content being player other than choosing what playlists to be played, just like a TV- channel, with little more control
 
 
 
 ### 3- XGMK
-a genral porpus expense tracking app I custom built using c++ .netframework 4.8 and microsoft SQL server, it consist of many windows showing sales, expenses, salaries and more.
+a general porpus expense tracking app I custom built using c++ .netframework 4.8 and microsoft SQL server, it consist of many windows showing sales, expenses, salaries and more.
 
 the app was my first project and it was done during collage, so it was a bit of a mess interms of code, I didn't plan for anything i just wrote code, it didn't contain much oop or software engineering concept
 
