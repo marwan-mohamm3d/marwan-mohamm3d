@@ -53,8 +53,13 @@ they also have a built in machine learning software that learns trends of consum
 <img src="assets/output.gif" width = 760>
 
 ### 2 - Youtube TV Simulator
-this is my first react-native application, it is a client for youtube focused on fighting back against addictions and algorithm eating up time, It works by allowing user to only choose some playlists of his choice and the application will make a schdule and decide what to be played when, the user will have no control over the content being player other than choosing what playlists to be played, just like a TV- channel, with little more control
+this is my first react-native application, it is a client for youtube focused on fighting back against addictions and algorithm eating up time, It works by allowing user to only choose some playlists of his choice and the application will make a schdule and decide what to be played when, the user will have no control over the content being player other than choosing what playlists to be played, just like a TV- channel, with little more control, it allowes for full screen playback 
 
+
+<img width="180" height="350" alt="playList" src="https://github.com/user-attachments/assets/4ac13f04-f4df-4240-bd37-99079326310d" />
+<img width="180" height="350" alt="SChedual" src="https://github.com/user-attachments/assets/969f2e7d-0380-4537-8957-7686d9d49e8d" />
+
+<img width="380" height="180" alt="Screenshot_20260811-083135_youtub-TV" src="https://github.com/user-attachments/assets/89cc4af7-6f81-4e8a-a55d-da15c811e3b0" />
 
 
 ### 3- XGMK
