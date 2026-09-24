@@ -88,7 +88,8 @@ this image showes the result
 the app was born from a silly idea I had while reading software engineering book, in a chapter about UI it says something like "the user interface should make sens based on applicaiotn, it doens't make sens for a air traffir control system to be a spread sheet"
 so i decided to work the other way around, what if I made a spreadsheet based app into a interractive UI like air traffic control
 
-
+## Works :
+1. (current) fullstack mobile dev : helped to long term support and maintain a react native e-commerce mobile application, using expo router and appwrite as Baas
 
 ---
 
